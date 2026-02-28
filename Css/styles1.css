@@ -1,0 +1,35 @@
+.font-inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
+.navbar{
+    padding: 15px 0;
+    
+}
+
+.container-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    height:48px;
+    margin-left:50px;  
+}
+
+nav a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+.nav-btn{
+    background:#2e8b57;
+    color:white;
+    border:none;
+    padding:16px 8px;
+    border-radius: 8px;
+    cursor:pointer;
+    margin-right: 60px;
+}
